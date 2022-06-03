@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='173.82.65.242';
-USER='jbkey_jbkey';
-PASS='digi#0550013763';
-DBNAME='jbkey_jbkey';
+HOST='66.45.248.110';
+USER='digitelp_jbkey';
+PASS='ME2HE2Di@';
+DBNAME='digitelp_jbkey';
 
 install_require()
 {
